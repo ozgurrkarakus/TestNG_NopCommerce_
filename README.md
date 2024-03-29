@@ -63,7 +63,7 @@ This project is a collaborative effort, with valuable contributions from:
 - [Gencer Genç](https://www.github.com/GencerGnc)
 - [Medine Özdil](https://www.github.com/mdnozdl)
 - [Özgür Karakuş](https://www.github.com/ozgurrkarakus)
-- [İlker Kılıç]((https://github.com/Ilker-Kilic))
+- [İlker Kılıç](https://github.com/Ilker-Kilic)
 
 ## Scenario Guidelines
 
