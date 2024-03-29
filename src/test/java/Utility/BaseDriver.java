@@ -31,11 +31,13 @@ public class BaseDriver {
         System.out.println("Login Test Başladı");
         driver.get("https://demo.nopcommerce.com/");
         Tools.Bekle(2);
+        WebElement loginClick= driver.findElement(By.xpath("//a[text()='Log in']"));
+        loginClick.click();
 
-        WebElement email= driver.findElement(By.xpath("//*[@id=Email]"));
+        WebElement email= driver.findElement(By.xpath("//*[@id=\"Email\"]"));
         email.sendKeys("ozgurkarakus.fb@gmail.com");
 
-        WebElement password= driver.findElement(By.xpath("//*[@id=Password]"));
+        WebElement password= driver.findElement(By.xpath("//*[@id=\"Password\"]"));
         password.sendKeys("Admin123");
 
 
