@@ -1,2 +1,4 @@
-package TC_503;public class US_503 {
+package TC_503;
+
+public class US_503 {
 }

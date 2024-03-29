@@ -5,7 +5,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import org.testng.Assert;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 
@@ -30,20 +29,18 @@ public class BaseDriver {
 
     public void LoginTest(){
         System.out.println("Login Test Başladı");
-        driver.get("https://demo.openmrs.org/openmrs/login.htm");
+        driver.get("https://demo.nopcommerce.com/");
         Tools.Bekle(2);
 
-        WebElement email= driver.findElement(By.id("username"));
-        email.sendKeys("admin");
+        WebElement email= driver.findElement(By.xpath("//*[@id=Email]"));
+        email.sendKeys("ozgurkarakus.fb@gmail.com");
 
-        WebElement password= driver.findElement(By.id("password"));
+        WebElement password= driver.findElement(By.xpath("//*[@id=Password]"));
         password.sendKeys("Admin123");
 
-        WebElement laboratuary=driver.findElement(By.xpath( "//ul[@id='sessionLocation']/li[3]"));
-        laboratuary.click();
 
-        WebElement logiBtn=driver.findElement(By.id("loginButton"));
-        logiBtn.click();
+        WebElement loginBtn=driver.findElement(By.xpath("//button[@class='button-1 login-button']"));
+        loginBtn.click();
 
     }
     @AfterClass
