@@ -8,6 +8,20 @@ This project is dedicated to conducting thorough testing of the demo.nopcommerce
 
 **URL:** [https://demo.nopcommerce.com](https://demo.nopcommerce.com)
 
+
+## Contributors
+
+This project is a collaborative effort, with valuable contributions from:
+
+- :octocat: [Ali Cömert](https://www.github.com/alicomert)
+- :rocket: [Emre Yavuz](https://www.github.com/emreyavvz)
+- :fire: [Gencer Genç](https://www.github.com/GencerGnc)
+- :star: [Medine Özdil](https://www.github.com/mdnozdl)
+- :sparkles: [Özgür Karakuş](https://www.github.com/ozgurrkarakus)
+- :zap: [İlker Kılıç](https://github.com/Ilker-Kilic)
+
+
+
 ## User Stories and Test Cases
 
 ### US_501 Register User
@@ -149,20 +163,6 @@ This project is dedicated to conducting thorough testing of the demo.nopcommerce
   - Test with various search parameters and keywords to cover different scenarios.
   - Verify the accuracy and relevance of the search results.
   - Monitor for any errors or unexpected behavior during the search process.
-
-
-## Contributors
-
-This project is a collaborative effort, with valuable contributions from:
-
-- :octocat: [Ali Cömert](https://www.github.com/alicomert)
-- :rocket: [Emre Yavuz](https://www.github.com/emreyavvz)
-- :fire: [Gencer Genç](https://www.github.com/GencerGnc)
-- :star: [Medine Özdil](https://www.github.com/mdnozdl)
-- :sparkles: [Özgür Karakuş](https://www.github.com/ozgurrkarakus)
-- :zap: [İlker Kılıç](https://github.com/Ilker-Kilic)
-
-
 
 ## Scenario Guidelines
 
