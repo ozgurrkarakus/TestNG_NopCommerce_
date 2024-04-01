@@ -150,16 +150,18 @@ This project is dedicated to conducting thorough testing of the demo.nopcommerce
   - Verify the accuracy and relevance of the search results.
   - Monitor for any errors or unexpected behavior during the search process.
 
+
 ## Contributors
 
 This project is a collaborative effort, with valuable contributions from:
 
 - :octocat: [Ali Cömert](https://www.github.com/alicomert)
-- :octocat: [Emre Yavuz](https://www.github.com/emreyavvz)
-- :octocat: [Gencer Genç](https://www.github.com/GencerGnc)
-- :octocat: [Medine Özdil](https://www.github.com/mdnozdl)
-- :octocat: [Özgür Karakuş](https://www.github.com/ozgurrkarakus)
-- :octocat: [İlker Kılıç](https://github.com/Ilker-Kilic)
+- :rocket: [Emre Yavuz](https://www.github.com/emreyavvz)
+- :fire: [Gencer Genç](https://www.github.com/GencerGnc)
+- :star: [Medine Özdil](https://www.github.com/mdnozdl)
+- :sparkles: [Özgür Karakuş](https://www.github.com/ozgurrkarakus)
+- :zap: [İlker Kılıç](https://github.com/Ilker-Kilic)
+
 
 
 ## Scenario Guidelines
