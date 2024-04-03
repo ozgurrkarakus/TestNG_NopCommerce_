@@ -25,7 +25,7 @@ public class TC_501_502_Elements {
     @FindBy(xpath = "//select[@name='DateOfBirthMonth']")
     public WebElement dateOfBirthMonth;
 
-  //  @FindBy(xpath = "//select[@name='DateOfBirthMonth']/option[@value='3']")
+  // @FindBy(xpath = "//select[@name='DateOfBirthMonth']/option[@value='3']")
     //public WebElement march;
 
     //select[@name='DateOfBirthMonth']/option[@value='3']

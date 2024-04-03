@@ -37,7 +37,7 @@ public class US_501 extends BaseDriver {
         String randomEmail = RandomEmail.generateRandomEmail();
         element.email.sendKeys(randomEmail);
 
-        // Tools.Bekle(15);
+
         element.company.sendKeys("TechnoStudy");
         element.password.sendKeys("Bug123");
         element.confirmPassword.sendKeys("Bug123");

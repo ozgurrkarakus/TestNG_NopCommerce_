@@ -15,7 +15,7 @@ public class US_502 extends BaseDriver {
         TC_501_502_Elements element = new TC_501_502_Elements();
         driver.get("https://demo.nopcommerce.com/");
         element.login.click();
-        String randomEmail = RandomEmail.generateRandomEmail();
+//String randomEmail = RandomEmail.generateRandomEmail();
 
         element.loginEmail.sendKeys("ozgurkarakus.fb@gmail.com");
         element.loginPassword.sendKeys("Admin123");
