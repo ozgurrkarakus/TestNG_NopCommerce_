@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68de9adb-dfce-468d-86a6-20de1d1890a7" name="Changes" comment="Commerce">
-      <change afterPath="$PROJECT_DIR$/src/test/java/TC_505/TC505_MultipleTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TC_505/TC_505_elements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="68de9adb-dfce-468d-86a6-20de1d1890a7" name="Changes" comment="TC505 solved">
+      <change afterPath="$PROJECT_DIR$/src/test/java/TC_507/TC_507Elements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TC_508/TC508_MultipleTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TC_508/US_508_elemnts.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TC_505/US_505.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TC_505/US_505.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TC_507/US_507.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TC_507/US_507.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TC_508/US_508.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TC_508/US_508.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +31,26 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;GencerGnc&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="recentNewPullRequestHead">
+      <RepoCoordinatesHolder>
+        <option name="owner" value="ozgurrkarakus" />
+        <option name="repository" value="TestNG_NopCommerce_" />
+      </RepoCoordinatesHolder>
+    </option>
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b9d38f59-3eba-42d4-bbdb-0d32727148f9" />
+        <option name="url" value="https://github.com/ozgurrkarakus/TestNG_NopCommerce_.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -58,7 +79,7 @@
     &quot;TestNG.US_502.Login.executor&quot;: &quot;Run&quot;,
     &quot;TestNG.US_502.executor&quot;: &quot;Run&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Gencer/IdeaProjects/TestNG_NopCommerce_/src/test/java/TC_505&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Gencer/IdeaProjects/TestNG_NopCommerce_/src/test/java/TC_508&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
@@ -66,6 +87,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gencer\IdeaProjects\TestNG_NopCommerce_\src\test\java\TC_508" />
+      <recent name="C:\Users\Gencer\IdeaProjects\TestNG_NopCommerce_\src\test\java\TC_507" />
       <recent name="C:\Users\Gencer\IdeaProjects\TestNG_NopCommerce_\src\test\java\TC_505" />
       <recent name="C:\Users\MONSTER\IdeaProjects\TestNG_NopCommerce_\src\test\java" />
     </key>
@@ -73,7 +96,7 @@
       <recent name="TC_505" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/Gencer/IdeaProjects/TestNG_NopCommerce_/src/test/java/TC_505/TC505_MultipleTest.xml">
+  <component name="RunManager" selected="TestNG.C:/Users/Gencer/IdeaProjects/TestNG_NopCommerce_/src/test/java/TC_508/TC508_MultipleTest.xml">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="TestNG_NopCommerce_" />
       <method v="2">
@@ -87,9 +110,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/Gencer/IdeaProjects/TestNG_NopCommerce_/src/test/java/TC_505/TC505_MultipleTest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/Gencer/IdeaProjects/TestNG_NopCommerce_/src/test/java/TC_508/TC508_MultipleTest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Cucumber7" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/TC_505/TC505_MultipleTest.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/TC_508/TC508_MultipleTest.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -97,51 +120,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="US_502 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="US_507.Test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Cucumber7" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TC_502.*" />
+          <option name="PATTERN" value="TC_507.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="TC_502" />
-      <option name="MAIN_CLASS_NAME" value="TC_502.US_502" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="US_502" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNG_NopCommerce_" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TC_502.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="TC_502" />
-      <option name="MAIN_CLASS_NAME" value="TC_502.US_502" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="US_502.Login" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNG_NopCommerce_" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TC_502.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="TC_502" />
-      <option name="MAIN_CLASS_NAME" value="TC_502.US_502" />
-      <option name="METHOD_NAME" value="Login" />
+      <option name="PACKAGE_NAME" value="TC_507" />
+      <option name="MAIN_CLASS_NAME" value="TC_507.US_507" />
+      <option name="METHOD_NAME" value="Test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -151,11 +140,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/Gencer/IdeaProjects/TestNG_NopCommerce_/src/test/java/TC_505/TC505_MultipleTest.xml" />
-        <item itemvalue="TestNG.US_502 (1)" />
-        <item itemvalue="TestNG.US_502.Login" />
-        <item itemvalue="TestNG.US_502" />
-        <item itemvalue="TestNG.US_502 (1)" />
+        <item itemvalue="TestNG.C:/Users/Gencer/IdeaProjects/TestNG_NopCommerce_/src/test/java/TC_508/TC508_MultipleTest.xml" />
+        <item itemvalue="TestNG.US_507.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711753005934</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="TC505 solved">
+      <option name="closed" value="true" />
+      <created>1711924910478</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711924910478</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -212,6 +206,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commerce" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commerce" />
+    <MESSAGE value="TC505 solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="TC505 solved" />
   </component>
 </project>
