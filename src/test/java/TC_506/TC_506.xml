@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="my suite">
+    <test name="test1">
+        <parameter name="Name" value="Ali"></parameter>
+        <parameter name="Email" value="alicmrt@gmail.com"></parameter>
+        <parameter name="yName" value="Ozgur"></parameter>
+        <parameter name="yMail" value="ozgur@gmail.com"></parameter>
+        <parameter name="Message" value="Gift For You!"></parameter>
+        <classes>
+            <class name="TC_506.US_506" />
+        </classes>
+    </test>
+</suite>
